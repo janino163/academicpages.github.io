@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jose"
+  name             : &name "Jose"
   avatar           : "profile.png"
   bio              : "PH.D student at Cornell University in Mechanical engineering"
   location         : "Ithaca, NY"
