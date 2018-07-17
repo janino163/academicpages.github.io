@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : &name "Jose"
-  avatar           : "profile.png"
+  avatar           :
   bio              : "PH.D student at Cornell University in Mechanical engineering"
   location         : "Ithaca, NY"
   employer         :
