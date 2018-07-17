@@ -78,38 +78,38 @@ analytics:
 
 # Site Author
 author:
-  name             :"Jose"
-  avatar           :"profile.png"
-  bio              :"PH.D student at Cornell University in Mechanical engineering"
-  location         :"Ithaca, NY"
-  employer         :""
-  googlescholar    :""
-  email            :"jan268[at]cornell.edu
-  uri              :""
-  bitbucket        :""
-  codepen          :""
-  dribbble         :""
-  flickr           :""
-  facebook         :""
-  foursquare       :""
-  github           :"janino163"
-  google_plus      :""
-  keybase          :""
-  instagram        :""
-  lastfm           :""
-  linkedin         :""
-  orcid            :"http://orcid.org/yourorcidurl"
-  pinterest        :""
-  soundcloud       :""
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :""
-  tumblr           :""
-  twitter          :"josenino22"
-  vine             :""
-  weibo            :""
-  xing             :""
-  youtube          :""
-  wikipedia        :""
+  name             : "Jose"
+  avatar           : "profile.png"
+  bio              : "PH.D student at Cornell University in Mechanical engineering"
+  location         : "Ithaca, NY"
+  employer         :
+  googlescholar    :
+  email            : "jan268[at]cornell.edu
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "janino163"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          : "josenino22"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
