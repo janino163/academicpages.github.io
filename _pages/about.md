@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Under Construction
+# Research Interests
+
+- Under construction
 
