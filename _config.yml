@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             :"Jose"
-  avatar           : "profile.png"
-  bio              : "PH.D student at Cornell University in Mechanical engineering"
-  location         : "Ithaca, NY"
+  avatar           :"profile.png"
+  bio              :"PH.D student at Cornell University in Mechanical engineering"
+  location         :"Ithaca, NY"
   employer         :
   googlescholar    : 
-  email            : "jan268[at]cornell.edu
+  email            :"jan268[at]cornell.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "janino163"
+  github           :"janino163"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "josenino22"
+  twitter          :"josenino22"
   vine             :
   weibo            :
   xing             :
