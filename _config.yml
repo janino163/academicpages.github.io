@@ -7,17 +7,16 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Research"
+title                    : "Jose Nino"
 title_separator          : "-"
 name                     : &name "Jose Nino"
-description              : &description "PH.D student at Cornell Universit in Mechanical Engineering"
-url                      : https://janino163.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PH.D student at Cornell Unversity in Mechanical Engineering"
+url                      : https://janino163.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janino163/janino163.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -78,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : &name "Jose"
-  avatar           :
-  bio              : "PH.D student at Cornell University in Mechanical engineering"
+  name             : "Jose Nino"
+  avatar           : 
+  bio              : "PH.D student at Cornell University in Mechanical Engineering"
   location         : "Ithaca, NY"
   employer         :
-  googlescholar    :
-  email            : "jan268[at]cornell.edu
+  googlescholar    : 
+  email            : "jan268[at]cornell.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +96,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
@@ -173,12 +172,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
