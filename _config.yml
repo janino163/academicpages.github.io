@@ -82,34 +82,34 @@ author:
   avatar           :"profile.png"
   bio              :"PH.D student at Cornell University in Mechanical engineering"
   location         :"Ithaca, NY"
-  employer         :
-  googlescholar    : 
+  employer         :""
+  googlescholar    : ""
   email            :"jan268[at]cornell.edu
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  uri              :""
+  bitbucket        :""
+  codepen          :""
+  dribbble         :""
+  flickr           :""
+  facebook         :""
+  foursquare       :""
   github           :"janino163"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         :
+  google_plus      :""
+  keybase          :""
+  instagram        :""
+  lastfm           :""
+  linkedin         :""
   orcid            :"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  pinterest        :""
+  soundcloud       :""
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  steam            :""
+  tumblr           :""
   twitter          :"josenino22"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  vine             :""
+  weibo            :""
+  xing             :""
+  youtube          :""
+  wikipedia        :""
 
 
 # Reading Files
